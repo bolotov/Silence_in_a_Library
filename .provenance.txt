@@ -1,0 +1,16 @@
+# generator info
+name: Python Library
+group: atomist-project-templates
+artifact: python-library
+version: 1.1.0
+
+# backing git repo
+repo: atomist-project-templates/python-library.git
+branch: master
+sha: 155c9fe
+
+# parameter values
+project_name: Silence_in_a_Library
+version: 0.1.0
+description: My new project about that there must be silence in a library
+
